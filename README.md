@@ -91,6 +91,6 @@ npm run test:apps
 
 Cardinal and Cardinal DB use the [PolyForm Noncommercial License 1.0.0](CARDINAL-LICENSE.md). Third-party dependencies keep their own licenses; see the [license notice](CARDINAL-LICENSE.md) for project scope and attributions.
 
-## Coming soon..... :p
+## Coming now!!..... :p
 
 Cardinal is still being built, so expect things to change and more stuff to show up here.
