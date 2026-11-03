@@ -17,7 +17,7 @@ This repository export contains Cardinal and Cardinal DB source. It does not inc
 - Keeps app configuration, logs, and databases in Cardinal's separate data folder.
 - Provides an authenticated control panel for app status, settings, logs, backups, and database checks.
 - Gives each running app a private local API for reading its own settings and sending notifications.
-- Provides Cardinal DB: a dependency-free Database with async reads, writes, transactions, backup, and recovery tools made by me ;p cus who needs sq lite.....
+- Provides Cardinal DB: a dependency-free JSON collection store with async reads, writes, transactions, backup, and recovery tools.
 
 ## Quick start
 

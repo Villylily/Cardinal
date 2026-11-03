@@ -1,0 +1,21 @@
+{
+    "scripts":  {
+                    "start":  "node cardinal.js"
+                },
+    "description":  "Cardinal app manager and Cardinal DB source",
+    "dependencies":  {
+                         "pidusage":  "^4.0.1",
+                         "express":  "^5.2.1",
+                         "selfsigned":  "^5.5.0"
+                     },
+    "version":  "1.0.0",
+    "engines":  {
+                    "node":  "\u003e=20"
+                },
+    "name":  "cardinal-platform",
+    "private":  true,
+    "workspaces":  [
+                       "apps/*"
+                   ],
+    "license":  "PolyForm-Noncommercial-1.0.0"
+}
